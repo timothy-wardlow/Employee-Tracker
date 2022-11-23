@@ -38,7 +38,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 Tim Wardlow <br>
 Instructors at UofM Full Stack Coding Boot Camp<br>
 StackOverflow <br>
-MySQL Chapter 13 docs
+[NPM docs on MySQL2](https://www.npmjs.com/package/mysql2)
 
 ## License
 MIT
