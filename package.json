@@ -20,7 +20,7 @@
   "homepage": "https://github.com/timothy-wardlow/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.2.4",
     "mysql2": "^2.3.3"
   }
 }
